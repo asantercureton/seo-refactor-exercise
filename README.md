@@ -1,2 +1,2 @@
-# seo-refactor-exercise
-Refactor Exercise
+# seo-refractor-exercise
+Refractor Exercise
