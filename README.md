@@ -5,11 +5,12 @@ SEO Refactor Exercise
 
 
 ## Description
-Updated tags within html coding to provide semantic value. Condensed CSS coding for faster information processing for the page.
+Updated tags within html coding to provide semantic value. Updated CSS coding to help the webpage load faster by increasing bandwidth and reducing the overall size of the information to process.
 
 
 ## Links
 [Source Code](https://github.com/asantercureton/seo-refractor-exercise)
+
 
 [Description Link](https://asantercureton.github.io/seo-refractor-exercise/)
 
@@ -21,11 +22,12 @@ Replaced one <strong>div</strong> with <strong>nav</strong> to provide more sema
 ## Screenshots
 Below are a couple screenshots of the project html displaying tags with semantic value, as well as a peek of the website displaying resized images:
 
-![Image of html](./assets/images/homework-code.png)
+<!-- ![Image of html](./assets/images/homework-code.png) -->
+<img src="./assets/images/homework-code.png" alt="Image of html" />
 
 
-![Image of html](./assets/images/homework-website.png)
-
+<!--![Image of html](./assets/images/homework-website.png) -->
+<img src="./assets/images/homework-website.png" alt="Image of website" />
 
 ---
-© 2021 SEO Refactor Exercise, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2021 SEO Refactor Exercise.
