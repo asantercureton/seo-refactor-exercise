@@ -22,12 +22,12 @@ Replaced one <strong>div</strong> with <strong>nav</strong> to provide more sema
 ## Screenshots
 Below are a couple screenshots of the project html displaying tags with semantic value, as well as a peek of the website displaying resized images:
 
-<!-- ![Image of html](./assets/images/homework-code.png) -->
-<img src="./assets/images/homework-code.png" alt="Image of html" />
+![Image of html](./assets/images/homework-code.png)
+<!-- <img src="./assets/images/homework-code.png" alt="Image of html" /> -->
 
 
-<!--![Image of html](./assets/images/homework-website.png) -->
-<img src="./assets/images/homework-website.png" alt="Image of website" />
+![Image of html](./assets/images/homework-website.png)
+<!-- <img src="./assets/images/homework-website.png" alt="Image of website" /> -->
 
 ---
 © 2021 SEO Refactor Exercise.
